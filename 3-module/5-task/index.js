@@ -1,5 +1,4 @@
 function getMinMax(str) {
-  // ваш код...
   let strings = str.split(' ');
 
   let nums = strings
